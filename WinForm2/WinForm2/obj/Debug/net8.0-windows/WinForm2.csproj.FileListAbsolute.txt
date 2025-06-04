@@ -1,0 +1,16 @@
+C:\Users\vinil\source\repos\WinForm2\WinForm2\bin\Debug\net8.0-windows\WinForm2.exe
+C:\Users\vinil\source\repos\WinForm2\WinForm2\bin\Debug\net8.0-windows\WinForm2.deps.json
+C:\Users\vinil\source\repos\WinForm2\WinForm2\bin\Debug\net8.0-windows\WinForm2.runtimeconfig.json
+C:\Users\vinil\source\repos\WinForm2\WinForm2\bin\Debug\net8.0-windows\WinForm2.dll
+C:\Users\vinil\source\repos\WinForm2\WinForm2\bin\Debug\net8.0-windows\WinForm2.pdb
+C:\Users\vinil\source\repos\WinForm2\WinForm2\obj\Debug\net8.0-windows\WinForm2.Form1.resources
+C:\Users\vinil\source\repos\WinForm2\WinForm2\obj\Debug\net8.0-windows\WinForm2.csproj.GenerateResource.cache
+C:\Users\vinil\source\repos\WinForm2\WinForm2\obj\Debug\net8.0-windows\WinForm2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinil\source\repos\WinForm2\WinForm2\obj\Debug\net8.0-windows\WinForm2.AssemblyInfoInputs.cache
+C:\Users\vinil\source\repos\WinForm2\WinForm2\obj\Debug\net8.0-windows\WinForm2.AssemblyInfo.cs
+C:\Users\vinil\source\repos\WinForm2\WinForm2\obj\Debug\net8.0-windows\WinForm2.csproj.CoreCompileInputs.cache
+C:\Users\vinil\source\repos\WinForm2\WinForm2\obj\Debug\net8.0-windows\WinForm2.dll
+C:\Users\vinil\source\repos\WinForm2\WinForm2\obj\Debug\net8.0-windows\refint\WinForm2.dll
+C:\Users\vinil\source\repos\WinForm2\WinForm2\obj\Debug\net8.0-windows\WinForm2.pdb
+C:\Users\vinil\source\repos\WinForm2\WinForm2\obj\Debug\net8.0-windows\WinForm2.genruntimeconfig.cache
+C:\Users\vinil\source\repos\WinForm2\WinForm2\obj\Debug\net8.0-windows\ref\WinForm2.dll
