@@ -1,0 +1,16 @@
+C:\Users\vinil\source\repos\WinForm4\WinForm4\bin\Release\net8.0-windows\WinForm4.exe
+C:\Users\vinil\source\repos\WinForm4\WinForm4\bin\Release\net8.0-windows\WinForm4.deps.json
+C:\Users\vinil\source\repos\WinForm4\WinForm4\bin\Release\net8.0-windows\WinForm4.runtimeconfig.json
+C:\Users\vinil\source\repos\WinForm4\WinForm4\bin\Release\net8.0-windows\WinForm4.dll
+C:\Users\vinil\source\repos\WinForm4\WinForm4\bin\Release\net8.0-windows\WinForm4.pdb
+C:\Users\vinil\source\repos\WinForm4\WinForm4\obj\Release\net8.0-windows\WinForm4.Form1.resources
+C:\Users\vinil\source\repos\WinForm4\WinForm4\obj\Release\net8.0-windows\WinForm4.csproj.GenerateResource.cache
+C:\Users\vinil\source\repos\WinForm4\WinForm4\obj\Release\net8.0-windows\WinForm4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinil\source\repos\WinForm4\WinForm4\obj\Release\net8.0-windows\WinForm4.AssemblyInfoInputs.cache
+C:\Users\vinil\source\repos\WinForm4\WinForm4\obj\Release\net8.0-windows\WinForm4.AssemblyInfo.cs
+C:\Users\vinil\source\repos\WinForm4\WinForm4\obj\Release\net8.0-windows\WinForm4.csproj.CoreCompileInputs.cache
+C:\Users\vinil\source\repos\WinForm4\WinForm4\obj\Release\net8.0-windows\WinForm4.dll
+C:\Users\vinil\source\repos\WinForm4\WinForm4\obj\Release\net8.0-windows\refint\WinForm4.dll
+C:\Users\vinil\source\repos\WinForm4\WinForm4\obj\Release\net8.0-windows\WinForm4.pdb
+C:\Users\vinil\source\repos\WinForm4\WinForm4\obj\Release\net8.0-windows\WinForm4.genruntimeconfig.cache
+C:\Users\vinil\source\repos\WinForm4\WinForm4\obj\Release\net8.0-windows\ref\WinForm4.dll
