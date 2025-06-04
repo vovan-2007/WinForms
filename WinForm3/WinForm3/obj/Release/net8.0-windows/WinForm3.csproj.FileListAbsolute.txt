@@ -1,0 +1,16 @@
+C:\Users\vinil\source\repos\WinForm3\WinForm3\bin\Release\net8.0-windows\WinForm3.exe
+C:\Users\vinil\source\repos\WinForm3\WinForm3\bin\Release\net8.0-windows\WinForm3.deps.json
+C:\Users\vinil\source\repos\WinForm3\WinForm3\bin\Release\net8.0-windows\WinForm3.runtimeconfig.json
+C:\Users\vinil\source\repos\WinForm3\WinForm3\bin\Release\net8.0-windows\WinForm3.dll
+C:\Users\vinil\source\repos\WinForm3\WinForm3\bin\Release\net8.0-windows\WinForm3.pdb
+C:\Users\vinil\source\repos\WinForm3\WinForm3\obj\Release\net8.0-windows\WinForm3.Form1.resources
+C:\Users\vinil\source\repos\WinForm3\WinForm3\obj\Release\net8.0-windows\WinForm3.csproj.GenerateResource.cache
+C:\Users\vinil\source\repos\WinForm3\WinForm3\obj\Release\net8.0-windows\WinForm3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinil\source\repos\WinForm3\WinForm3\obj\Release\net8.0-windows\WinForm3.AssemblyInfoInputs.cache
+C:\Users\vinil\source\repos\WinForm3\WinForm3\obj\Release\net8.0-windows\WinForm3.AssemblyInfo.cs
+C:\Users\vinil\source\repos\WinForm3\WinForm3\obj\Release\net8.0-windows\WinForm3.csproj.CoreCompileInputs.cache
+C:\Users\vinil\source\repos\WinForm3\WinForm3\obj\Release\net8.0-windows\WinForm3.dll
+C:\Users\vinil\source\repos\WinForm3\WinForm3\obj\Release\net8.0-windows\refint\WinForm3.dll
+C:\Users\vinil\source\repos\WinForm3\WinForm3\obj\Release\net8.0-windows\WinForm3.pdb
+C:\Users\vinil\source\repos\WinForm3\WinForm3\obj\Release\net8.0-windows\WinForm3.genruntimeconfig.cache
+C:\Users\vinil\source\repos\WinForm3\WinForm3\obj\Release\net8.0-windows\ref\WinForm3.dll
